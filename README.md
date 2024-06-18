@@ -1,3 +1,3 @@
-### Announcements
+[cams.nz](https://cams.nz)
 
-Make J2ME great again
+Move fast and ~~break~~ iterate on things.
